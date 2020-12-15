@@ -8,6 +8,6 @@ The project team is:
 * Sarkis Barkhoudarian
 * Aida Bareghamyan
 * Seth Kazarians
-* Ace Tarakchain
+* Ace Tarakchian
 
 A PDF of the schematic can be found [here](AESA_Nerve_Stim_PCB/AESA_Nerve_Stim_Schematic.pdf)
